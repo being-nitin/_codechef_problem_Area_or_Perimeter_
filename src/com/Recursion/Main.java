@@ -53,3 +53,4 @@ public class Main {
 }
 // it will give if peri if perimeter will be greater than area.
 // it will give Area if Area will be greater than perimeter.
+// it will give eq if area and perimeter both will be equal.
