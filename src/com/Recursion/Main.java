@@ -37,7 +37,7 @@ public class Main {
   breadth = sc.nextInt();
   perim = 2*(length+breadth);
   area = length*breadth;
-  if(perim>area){
+  if(perim>area) {
       System.out.println("Peri");
       System.out.println(perim);
   }
@@ -51,3 +51,4 @@ public class Main {
   }
     }
 }
+// it will give if peri if perimeter will be greater than area.
